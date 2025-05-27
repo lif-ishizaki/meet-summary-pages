@@ -1,0 +1,11 @@
+{
+    "name": "meet-summary-pages",
+    "private": true,
+    "type": "module",
+    "devDependencies": {
+        "wrangler": "^4.16.1"
+    },
+    "scripts": {
+        "dev": "wrangler pages dev public --compatibility-date=2025-05-27"
+    }
+}
